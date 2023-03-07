@@ -42,6 +42,6 @@ https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 ## Author
 
 Zayd Said
-GitHub: https://github.com/zaydsaid1
+GitHub:https://github.com/zaydsaid1/regexhomework
 
-Link to GIST: https://gist.github.com/zaydsaid1/dfbd4eff38260cea3e2901821c6203fb
+Link to GIST:https://gist.github.com/zaydsaid1/dfbd4eff38260cea3e2901821c6203fb
